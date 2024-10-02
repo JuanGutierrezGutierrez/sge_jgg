@@ -2,7 +2,7 @@
 ## PR0301 - Facturas con Odoo
 
 Primero de todo, creamos una nueva empresa. Para eso, navegaremos a ajustes, buscaremos la seccion de compañia y pulsaremos el botón de nuevo.
-![Nueva compañia](img/foto1.png)
+![Nueva compañia](img/foto1.PNG)
 
 Una vez dentro, solo tenemos que rellenar la información y darle al botón.
 ![Informacion empresa](img/foto2.png)
