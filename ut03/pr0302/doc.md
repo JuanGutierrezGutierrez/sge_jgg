@@ -1,11 +1,6 @@
 # UT03 - Implantación de un ERP en la empresa
 ## PR0302 - Inventario y Google Imágenes
 
-Primero de todo, creamos una nueva empresa. Para eso, navegaremos a ajustes, buscaremos la seccion de compañia y pulsaremos el botón de nuevo.
-
-![Nueva compañia](img/foto1.PNG)
-
-
 
 Para poder hacer uso de la funcionalidad del inventario, primero tenemos que activar el módulo de inventario, el cual se sincronizará automaticamente con aquellos con los esté relacionado, como el facturas.
 
