@@ -79,3 +79,7 @@ Ahora que ya está todo actualizado y configurado, vamos a comprobar si se actua
 Las imagenes se obtienen automaticamente desde el servicio de Google y se actualizan en Odoo de manera correcta.
 
 ![](img/foto16.PNG)
+
+
+---
+[Volver a la Unidad 3](../)
