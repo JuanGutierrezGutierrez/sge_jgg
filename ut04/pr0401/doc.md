@@ -59,19 +59,15 @@ for iterador in range(1, n+1, 2):
 
 ## 5. Numero mayor y menor
 ```python
-numeroMasBajo = ""
-numeroMasAlto = ""
-for iteracion in range(5):
-    numeroEstaIteracion = input()
-    if numeroMasBajo == "" and numeroMasAlto == "":
+numeroMasBajo = int(input())
+numeroMasAlto = numeroMasBajo
+for iteracion in range(4):
+    numeroEstaIteracion = int(input())
+    if numeroEstaIteracion < numeroMasBajo:
         numeroMasBajo = numeroEstaIteracion
+    if numeroEstaIteracion > numeroMasAlto:
         numeroMasAlto = numeroEstaIteracion
-    else:
-        if numeroEstaIteracion < numeroMasBajo:
-            numeroMasBajo = numeroEstaIteracion
-        if numeroEstaIteracion > numeroMasAlto:
-            numeroMasAlto = numeroEstaIteracion
-print("El numero mayor es " + numeroMasAlto + " y el menor es " + numeroMasBajo)
+print("El numero mayor es " + str(numeroMasAlto) + " y el menor es " + str(numeroMasBajo))
 ```
 
 
