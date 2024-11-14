@@ -12,7 +12,8 @@
 ## pr0404
 [Ejercicios con diccionarios](./pr0404/doc.md)
 
-
+## pr0405
+[Ejercicios de programacion funcional](./pr0405/doc.md)
 
 ---
 [Volver al indice](../)
