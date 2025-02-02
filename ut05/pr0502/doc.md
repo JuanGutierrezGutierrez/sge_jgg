@@ -197,7 +197,8 @@ access_library_management_library_book,library_management.library_book,model_lib
 Con esto, ya hemos definido todo lo que necesitabamos para nuestro módulo, y funciona correctamente.
 
 
-# ACTUALIZO CON FOTO CUANDO TENGA ACCESO AL ORDENADOR DEL AULA
+![](img/foto2.PNG)
+![](img/foto3.PNG)
 
 ---
 [Volver a la Unidad 5](../)

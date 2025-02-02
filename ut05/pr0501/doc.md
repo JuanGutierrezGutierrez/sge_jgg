@@ -139,7 +139,7 @@ access_lista_salas_lista_salas,lista_salas.lista_salas,model_lista_salas,base.gr
 Con esto ya hemos definido la regla de acceso al modelo de la lista de salas, y nuestro módulo funciona correctamente.
 
 
-# ACTUALIZO CON FOTO CUANDO TENGA ACCESO AL ORDENADOR DEL AULA
+![](img/foto2.PNG)
 
 ---
 [Volver a la Unidad 5](../)

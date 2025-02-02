@@ -170,7 +170,8 @@ El atributo digits de peso_producto es un atributo especial de los campos float,
 
 Con esto, ya ha quedado definido el módulo, y podemos generar objetos de este modelo con éxito.
 
-# ACTUALIZO CON FOTO CUANDO TENGA ACCESO AL ORDENADOR DEL AULA
+
+![](img/foto1.PNG) 
 
 
 ---

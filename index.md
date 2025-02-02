@@ -24,3 +24,6 @@
 
 ## Unidad 6 - Desarrollo de módulos de Odoo: Modelo y vista
 [Unidad 6](./ut06/index.md)
+
+## Unidad 7 - Desarrollo de módulos de Odoo: Controlador, Herencia y Web Controllers
+[Unidad 7](./ut07/index.md)
