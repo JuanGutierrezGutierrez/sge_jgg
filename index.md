@@ -27,3 +27,7 @@
 
 ## Unidad 7 - Desarrollo de módulos de Odoo: Controlador, Herencia y Web Controllers
 [Unidad 7](./ut07/index.md)
+
+
+## Proyecto 2 - Extensión del modelo de suscripciones mediante métricas y estadísticas
+[Proyecto 2](./pro2/doc.md)
